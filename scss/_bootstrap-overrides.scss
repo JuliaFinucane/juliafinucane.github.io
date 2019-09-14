@@ -8,31 +8,31 @@ a {
 }
 
 .btn-primary {
-  background-color: $primary !important;
-  border-color: $primary !important;
-  color: $white !important;
+  background-color: $primary;
+  border-color: $primary;
+  color: $white;
   &:hover,
   &:focus,
   &:active {
-    background-color: darken($primary, 10%) !important;
-    border-color: darken($primary, 10%) !important;
+    background-color: darken($primary, 10%);
+    border-color: darken($primary, 10%);
   }
 }
 
 .btn-secondary {
-  background-color: $secondary !important;
-  border-color: $secondary !important;
-  color: $white !important;
+  background-color: $secondary;
+  border-color: $secondary;
+  color: $white;
   &:hover,
   &:focus,
   &:active {
-    background-color: darken($secondary, 10%) !important;
-    border-color: darken($secondary, 10%) !important;
+    background-color: darken($secondary, 10%);
+    border-color: darken($secondary, 10%);
   }
 }
 
 .btn-dark {
-  color: $white !important;
+  color: $white;
 }
 
 .btn {
@@ -41,13 +41,13 @@ a {
 }
 
 .bg-primary {
-  background-color: $primary !important;
+  background-color: $primary;
 }
 
 .text-primary {
-  color: $primary !important;
+  color: $primary;
 }
 
 .text-secondary {
-  color: $secondary !important;
+  color: $secondary;
 }
