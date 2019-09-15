@@ -93,7 +93,7 @@ h1.mb-1{
 		font-size:5.5rem
 }
 }
-#sidebar-wrapper{
+	#sidebar-wrapper{
 	position:fixed;
 	z-index:2;
 	right:0;
